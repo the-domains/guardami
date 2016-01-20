@@ -1,7 +1,7 @@
 name: Guardami
 favicon: null
-layout_spectrum: 0.5422800674568862
-typography_spectrum: 0.891386509174481
+layout_spectrum: 0.50167
+typography_spectrum: 0.15109
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.20418104762211442
+    - '#876a48'
+    - '#130a03'
+    - '#4a3b29'
+    - '#f5f5f5'
+    - '#d49d62'
+  brandStrength: 0.1875
   lightness: 0.19050744036212564
   saturation: 0.17274142755195498
   rhythmicContrast: 0.33912749495357275
