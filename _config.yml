@@ -1,4 +1,4 @@
-layout_spectrum: 0.50167
+name: Guardami
 opengraph:
   image: null
   type: null
@@ -9,23 +9,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.172741427551955
+  brandStrength: 0.9409781
   lightness: 0.1905074403621256
-  brandStrength: 0.8802698
   brandColors:
-    - '#160B01'
-    - '#B39364'
-    - '#FFFFFB'
-    - '#C8980F'
-    - '#FCDF42'
+    - '#010101'
+    - '#322E2F'
+    - '#D0CECF'
+    - '#5E5A5B'
+    - '#A5A2A3'
   rhythmicContrast: 0.3391274949535728
 typography_spectrum: 0.15109
 cta:
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: Guardami
+layout_spectrum: 0.50167
